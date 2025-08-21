@@ -23,9 +23,6 @@ src/ ├── exceptions/ │ ├── CodigoDuplicadoException.java │ ├�
 # 🚀 Como executar
 Clone o repositório:
 git clone (https://github.com/gabriel-freitas96/Atividade1-fase.git)
-✅ Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir Issues ou enviar Pull Requests.
 
 # 📄 Licença
 
