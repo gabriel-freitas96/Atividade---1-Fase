@@ -27,8 +27,8 @@ git clone (https://github.com/gabriel-freitas96/Atividade1-fase.git)
 # 📄 Licença
 
 Este projeto está licenciado sob a MIT License
-.
 
 # Desenvolvido com 💻 por:
--Gabriel Lacerda
--Samires Carmo
+
+# -Gabriel Lacerda
+# -Samires Carmo
